@@ -45,7 +45,7 @@ persist.vendor.ims.disableQXDMLogs=1
 persist.device_config.runtime_native_boot.iorap_readahead_enable=true
 
 # Maintainer
-ro.octavi.maintainer=Tokatsu
+ro.octavi.maintainer=MikeQu
 
 # Media
 debug.stagefright.ccodec=1
